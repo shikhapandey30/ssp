@@ -1,0 +1,19 @@
+current directory: /home/bittern-123/project/e_cons/ssp/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/home/bittern-123/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/bittern-123/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20200201-16717-t835bz.rb extconf.rb
+creating Makefile
+
+current directory: /home/bittern-123/project/e_cons/ssp/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/bittern-123/project/e_cons/ssp/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/bittern-123/project/e_cons/ssp/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20200201-16717-g5r376/byebug
